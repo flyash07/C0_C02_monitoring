@@ -4,8 +4,8 @@
 #include "TelegramBotControl.h"
 
 // Define your Wi-Fi network credentials 
-const char* ssid = "TanSpot";
-const char* password = "ahyesthepassword";
+const char* ssid = ""; //redacted
+const char* password = ""; //redacted
 
 // Define the Telegram Bot API Token
 const char* telegramToken = ""; //redacted
