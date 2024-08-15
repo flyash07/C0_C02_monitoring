@@ -8,8 +8,8 @@ const char* ssid = "TanSpot";
 const char* password = "ahyesthepassword";
 
 // Define the Telegram Bot API Token
-const char* telegramToken = "7047406355:AAHCg-j70NBcowforzydCf6zgBaKBFEwqK0";
-const String chatID = "6642708288";
+const char* telegramToken = ""; //redacted
+const String chatID = ""; //redacted
 
 // Define the Server IP and Port
 const char* serverIP = "192.168.95.124"; // Change this to the IP address of your server
